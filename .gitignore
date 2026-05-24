@@ -1,0 +1,41 @@
+# Virtual Environments
+.venv/
+venv/
+backend/venv/
+frontend/venv/
+
+# Node modules
+node_modules/
+frontend/node_modules/
+
+# Python Cache
+__pycache__/
+*.pyc
+backend/__pycache__/
+
+# Environment files
+.env
+backend/.env
+backend-laravel/.env
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Build outputs
+dist/
+frontend/dist/
+
+# Temporary files
+tmp_response.json
+Screenshot *.png
